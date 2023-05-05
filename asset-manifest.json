@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/techweb/static/css/main.7ff685da.css",
-    "main.js": "/techweb/static/js/main.1f4c05a7.js",
-    "static/js/787.703bc121.chunk.js": "/techweb/static/js/787.703bc121.chunk.js",
-    "static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg": "/techweb/static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.70055a824354588dcedf.jpg",
-    "static/media/umberto-jXd2FSvcRr8-unsplash.jpg": "/techweb/static/media/umberto-jXd2FSvcRr8-unsplash.6ba286db206b2603ae18.jpg",
-    "static/media/louis-reed-wSTCaQpiLtc-unsplash.jpg": "/techweb/static/media/louis-reed-wSTCaQpiLtc-unsplash.f89ac5ad82d7cb67dd3f.jpg",
-    "static/media/vishnu-mohanan-IAfNjy3fh6g-unsplash.jpg": "/techweb/static/media/vishnu-mohanan-IAfNjy3fh6g-unsplash.6ec473e4c2a9445df356.jpg",
-    "static/media/blaz-erzetic-g5f0BJq-FRs-unsplash.jpg": "/techweb/static/media/blaz-erzetic-g5f0BJq-FRs-unsplash.34eb5ad34b0af851c357.jpg",
-    "static/media/CAT_LOGO.svg": "/techweb/static/media/CAT_LOGO.0dc8bdc19df3e67c8d1e8be2af07e229.svg",
-    "index.html": "/techweb/index.html",
-    "main.7ff685da.css.map": "/techweb/static/css/main.7ff685da.css.map",
-    "main.1f4c05a7.js.map": "/techweb/static/js/main.1f4c05a7.js.map",
-    "787.703bc121.chunk.js.map": "/techweb/static/js/787.703bc121.chunk.js.map"
+    "main.css": "/TechWeb/static/css/main.f5db50d3.css",
+    "main.js": "/TechWeb/static/js/main.6d8facdc.js",
+    "static/js/787.703bc121.chunk.js": "/TechWeb/static/js/787.703bc121.chunk.js",
+    "static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg": "/TechWeb/static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.70055a824354588dcedf.jpg",
+    "static/media/umberto-jXd2FSvcRr8-unsplash.jpg": "/TechWeb/static/media/umberto-jXd2FSvcRr8-unsplash.6ba286db206b2603ae18.jpg",
+    "static/media/louis-reed-wSTCaQpiLtc-unsplash.jpg": "/TechWeb/static/media/louis-reed-wSTCaQpiLtc-unsplash.f89ac5ad82d7cb67dd3f.jpg",
+    "static/media/vishnu-mohanan-IAfNjy3fh6g-unsplash.jpg": "/TechWeb/static/media/vishnu-mohanan-IAfNjy3fh6g-unsplash.6ec473e4c2a9445df356.jpg",
+    "static/media/blaz-erzetic-g5f0BJq-FRs-unsplash.jpg": "/TechWeb/static/media/blaz-erzetic-g5f0BJq-FRs-unsplash.34eb5ad34b0af851c357.jpg",
+    "static/media/CAT_LOGO.svg": "/TechWeb/static/media/CAT_LOGO.0dc8bdc19df3e67c8d1e8be2af07e229.svg",
+    "index.html": "/TechWeb/index.html",
+    "main.f5db50d3.css.map": "/TechWeb/static/css/main.f5db50d3.css.map",
+    "main.6d8facdc.js.map": "/TechWeb/static/js/main.6d8facdc.js.map",
+    "787.703bc121.chunk.js.map": "/TechWeb/static/js/787.703bc121.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ff685da.css",
-    "static/js/main.1f4c05a7.js"
+    "static/css/main.f5db50d3.css",
+    "static/js/main.6d8facdc.js"
   ]
 }
