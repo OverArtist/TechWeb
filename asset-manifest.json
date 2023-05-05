@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TechWeb/static/css/main.c04c13bb.css",
-    "main.js": "/TechWeb/static/js/main.2f4f2701.js",
+    "main.js": "/TechWeb/static/js/main.b0e24786.js",
     "static/js/787.703bc121.chunk.js": "/TechWeb/static/js/787.703bc121.chunk.js",
     "static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg": "/TechWeb/static/media/michael-dziedzic-aQYgUYwnCsM-unsplash.70055a824354588dcedf.jpg",
     "static/media/umberto-jXd2FSvcRr8-unsplash.jpg": "/TechWeb/static/media/umberto-jXd2FSvcRr8-unsplash.6ba286db206b2603ae18.jpg",
@@ -11,11 +11,11 @@
     "static/media/CAT_LOGO.svg": "/TechWeb/static/media/CAT_LOGO.0dc8bdc19df3e67c8d1e8be2af07e229.svg",
     "index.html": "/TechWeb/index.html",
     "main.c04c13bb.css.map": "/TechWeb/static/css/main.c04c13bb.css.map",
-    "main.2f4f2701.js.map": "/TechWeb/static/js/main.2f4f2701.js.map",
+    "main.b0e24786.js.map": "/TechWeb/static/js/main.b0e24786.js.map",
     "787.703bc121.chunk.js.map": "/TechWeb/static/js/787.703bc121.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c04c13bb.css",
-    "static/js/main.2f4f2701.js"
+    "static/js/main.b0e24786.js"
   ]
 }
